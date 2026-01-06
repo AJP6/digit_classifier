@@ -1,4 +1,4 @@
-This is a project made by 2 collaborators: Andrew Piela and george Lundgren. It is a tool that uses PyTorch to look at handwritten numbers and figure out what digit they are.
+This is a project made by 2 collaborators: Andrew Piela and George Lundgren. It is a tool that uses PyTorch to look at handwritten numbers and figure out what digit they are.
 
 We used the MNIST dataset for this project.
 
